@@ -31,7 +31,11 @@
       "id": "typical90_d",
       "label": "004",
       "title": "Cross Sum（★2）",
-      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_d"
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_d",
+      "directory": {
+        "path": "004",
+        "testdir": "tests"
+      }
     },
     {
       "id": "typical90_e",

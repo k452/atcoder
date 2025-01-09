@@ -10,3 +10,5 @@ fn main() {
 
     println!("{} {} {} {}", &n, &l, &k, &a[2])
 }
+
+fn calc() {}
