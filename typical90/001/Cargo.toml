@@ -1,0 +1,11 @@
+[package]
+name = "_001"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "_001"
+path = "src/main.rs"
+
+[dependencies]
+proconio = "0.5.0"
